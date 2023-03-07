@@ -41,8 +41,8 @@
 
 #define MIPI_SWITCH_OE_PIN  32
 #define MIPI_SWITCH_SEL_PIN 34
-#define LCD_BACKLIGHT_PIN   79
-#define LCD_RESET_PIN       78
+#define LCD_BACKLIGHT_PIN   122
+#define LCD_RESET_PIN       107
 #define HDMI_RESET_PIN      97
 
 #define MIPI_SWITCH_OE_IO   22
